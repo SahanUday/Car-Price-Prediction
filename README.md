@@ -32,6 +32,13 @@ The code for this project is available in the file:
   - pandas (`pip install pandas`)
   - scikit-learn (`pip install scikit-learn`)
 
+
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![Jupyter](https://img.shields.io/badge/jupyter-orange)
+![Pandas](https://img.shields.io/badge/pandas-green)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-orange)
+
+
 ## Dataset
 The dataset used in this project is:
 
