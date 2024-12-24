@@ -32,11 +32,11 @@ The code for this project is available in the file:
   - pandas (`pip install pandas`)
   - scikit-learn (`pip install scikit-learn`)
 
+[![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
-![Python](https://img.shields.io/badge/python-3.10-blue)
-![Jupyter](https://img.shields.io/badge/jupyter-orange)
-![Pandas](https://img.shields.io/badge/pandas-green)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-orange)
 
 
 ## Dataset
